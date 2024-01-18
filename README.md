@@ -22,5 +22,7 @@ This Python project uses the Turtle module to create a visualization of Lord Gan
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-ganesha-project.git
+   git clone https://github.com/Honeyrn/Lord-Ganesh-Visual-Turtle-.git
    cd your-ganesha-project
+
+https://github.com/Honeyrn/Lord-Ganesh-Visual-Turtle-.git
